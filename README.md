@@ -1,5 +1,5 @@
 # 🎬Introduction
-I did this course following @lukeBarousse youtube channel and documentation. This is the original README.md by @lukeBarousse with my specific contribution as I follow the learning process.
+I did this course following @lukeBarousse youtube channel and documentation. This is the original README.md by @lukeBarousse with my specific modifications as I follow the learning process.
 
 Thank you so much to **[Mr. Luke Barousse](https://www.linkedin.com/in/luke-b)**
 
